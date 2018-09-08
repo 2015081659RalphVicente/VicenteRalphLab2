@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VicenteRalphLab2</string>
+    <string name="relative_layout">Robinsons Manila</string>
+    <string name="todo">TODO</string>
+    <string name="linear_layout">Robinsons Manila</string>
+    <string name="constraint_layout">Robinsons Manila</string>
+    <string name="location">Location: Pedro Gil</string>
+    <string name="distance_from_ust">Distance from UST: 4.7 km</string>
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+    <string name="todo1">Todo1</string>
+</resources>
